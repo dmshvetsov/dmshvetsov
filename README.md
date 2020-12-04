@@ -2,7 +2,7 @@
 
 ### About
 
-I'm a software engineer and I enjoy solving problems with technologies and Extreme Programming practices such as TDD.
+I'm a software engineer and I enjoy solving problems with technologies and Extreme Programming practices such as TDD. I am the organizer of [Ruby-Vladivostok meetup](https://github.com/ruby-vladivostok) RU.
 
 ### Projects
 

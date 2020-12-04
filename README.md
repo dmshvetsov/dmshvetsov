@@ -11,6 +11,8 @@ I'm a software engineer and I enjoy solving problems with technologies and Extre
 
 ### Articles
 
+Featured:
+
 * [How To Be More Productive Than Most Programmers](https://dev.to/dmitryshvetsov/how-to-be-more-productive-than-most-programmers-576f)
 * [22 Things You Should Give Up if You Want to Be a Successful Developer](https://medium.com/better-programming/22-things-you-should-give-up-if-you-want-to-be-a-successful-developer-aaee8699185c)
 

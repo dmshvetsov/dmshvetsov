@@ -2,7 +2,7 @@
 
 ### About
 
-I enjoy solving problems with technologies and Extreme Programming practices such as TDD. Software engineer, organizer of [Ruby-Vladivostok meetup](https://github.com/ruby-vladivostok), author of the book [Team Lead 101](http://gum.co/team-laed-101).
+I enjoy solving problems with technologies and Extreme Programming practices such as TDD. Software engineer, organizer of [Ruby-Vladivostok meetup](https://github.com/ruby-vladivostok), author of the book [Team Lead 101: How to Manage and Grow Engineering Teams in Small Startups](http://gum.co/team-lead-101).
 
 ### Projects
 

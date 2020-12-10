@@ -6,7 +6,7 @@ I enjoy solving problems with technologies and Extreme Programming practices suc
 
 ### Projects
 
-* [yabeda-datadog ruby gem](https://github.com/yabeda-rb/yabeda-datadog) [yabeda](https://github.com/yabeda-rb/yabeda) adapter for easy exporting collected custom metrics from your ruby application to the Datadog API. Developed together with [Vladimir Dementyev](https://github.com/palkan) and [Andrey Novikov](https://github.com/Envek)
+* [yabeda-datadog ruby gem](https://github.com/yabeda-rb/yabeda-datadog) an adapter for [yabeda](https://github.com/yabeda-rb/yabeda) framework for easy exporting collected custom metrics from your ruby application to the Datadog API. Developed together with [Vladimir Dementyev](https://github.com/palkan) and [Andrey Novikov](https://github.com/Envek)
 * [rmtr chrome extension](https://github.com/dmshvetsov/rmtr-chrome-extension)
 
 ### Articles

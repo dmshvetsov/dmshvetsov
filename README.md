@@ -13,8 +13,8 @@ I enjoy solving problems with technologies and Extreme Programming practices suc
 Featured:
 
 * [Tricks And Tools To Fast-Track Your Goal of Becoming a Strong Programmer](https://dmitryshvetsov.com/tools-of-strong-programmers)
-* [How To Be More Productive Than Most Programmers](https://dev.to/dmitryshvetsov/how-to-be-more-productive-than-most-programmers-576f)
-* [22 Things You Should Give Up if You Want to Be a Successful Developer](https://medium.com/better-programming/22-things-you-should-give-up-if-you-want-to-be-a-successful-developer-aaee8699185c)
+* [How To Be More Productive Than Most Programmers](https://dmitryshvetsov.com/articles/how-to-be-more-productive-than-most-programmers/)
+* [22 Things You Should Give Up if You Want to Be a Successful Developer](https://dmitryshvetsov.com/articles/22-things-you-should-give-up-if-you-want-to-be-a-successful-developer/)
 
 Read more my articles on [dmitryshvetsov.com](https://dmitryshvetsov.com)
 

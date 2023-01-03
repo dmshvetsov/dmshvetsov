@@ -4,10 +4,6 @@
 
 I enjoy solving problems with technologies and Extreme Programming practices such as TDD. Software engineer, organizer of [Ruby-Vladivostok meetup](https://github.com/ruby-vladivostok), author of the book [Team Lead 101: How to Manage and Grow Engineering Teams in Small Startups](http://gum.co/team-lead-101).
 
-### Open-source Projects
-
-* [yabeda-datadog ruby gem](https://github.com/yabeda-rb/yabeda-datadog) an adapter for [yabeda](https://github.com/yabeda-rb/yabeda) framework for easy exporting collected custom metrics from your ruby application to the Datadog API. Developed together with [Vladimir Dementyev](https://github.com/palkan) and [Andrey Novikov](https://github.com/Envek)
-
 ### Articles
 
 Featured:

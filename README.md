@@ -2,7 +2,14 @@
 
 ### About
 
-I enjoy solving problems with technologies and Extreme Programming practices such as TDD. Software engineer, organizer of [Ruby-Vladivostok meetup](https://github.com/ruby-vladivostok), author of the book [Team Lead 101: How to Manage and Grow Engineering Teams in Small Startups](http://gum.co/team-lead-101).
+Software engineer with 9 years of experience in the tech industry with expertise in developing backend and frontend for SaaS using Agile and Extreme Programming practices, with proven ability to effectively communicate, lead, and deliver results in distributed and remote teams.
+Helped 2 top Y-Combinator startups and one of the fastest crypto unicorn.
+
+Author of the book [Team Lead 101: How to Manage and Grow Engineering Teams in Small Startups](http://gum.co/team-lead-101).
+
+Open-source contributer.
+
+Started [Ruby Vladivostok Community](https://github.com/orgs/ruby-vladivostok/teams/ruby-vladivostok-member).
 
 ### Articles
 
@@ -12,7 +19,7 @@ Featured:
 * [How To Be More Productive Than Most Programmers](https://dmitryshvetsov.com/articles/how-to-be-more-productive-than-most-programmers/)
 * [22 Things You Should Give Up if You Want to Be a Successful Developer](https://dmitryshvetsov.com/articles/22-things-you-should-give-up-if-you-want-to-be-a-successful-developer/)
 
-Read more my articles on [dmitryshvetsov.com](https://dmitryshvetsov.com)
+More articles on [dmitryshvetsov.com](https://dmitryshvetsov.com)
 
 <!--
 **dmshvetsov/dmshvetsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

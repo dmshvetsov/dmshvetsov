@@ -6,7 +6,7 @@ Software engineer with 9 years of experience in the tech industry and web3/crypt
 
 Helped 2 top Y-Combinator startups and one of the fastest crypto unicorn.
 
-Author of the book [Team Lead 101: How to Manage and Grow Engineering Teams in Small Startups](http://gum.co/team-lead-101).
+Author of [Team Lead 101: How to Manage and Grow Engineering Teams in Small Startups](http://gum.co/team-lead-101) book.
 
 Open-source contributer.
 

@@ -15,7 +15,7 @@ Started [Ruby Vladivostok Community](https://github.com/orgs/ruby-vladivostok/te
 
 Featured:
 
-* [Tricks And Tools To Fast-Track Your Goal of Becoming a Strong Programmer](https://dmitryshvetsov.com/tools-of-strong-programmers)
+<!-- * [Tricks And Tools To Fast-Track Your Goal of Becoming a Strong Programmer](https://dmitryshvetsov.com/tools-of-strong-programmers) -->
 * [How To Be More Productive Than Most Programmers](https://dmitryshvetsov.com/articles/how-to-be-more-productive-than-most-programmers/)
 * [22 Things You Should Give Up if You Want to Be a Successful Developer](https://dmitryshvetsov.com/articles/22-things-you-should-give-up-if-you-want-to-be-a-successful-developer/)
 

@@ -4,9 +4,9 @@
 
 Software engineer with 9 years of experience in the tech industry and web3/crypto with expertise in developing backend and frontend for SaaS using Agile and Extreme Programming practices, with proven ability to effectively communicate, lead, and deliver results in distributed and remote teams.
 
-Helped 2 top Y-Combinator startups and one of the fastest crypto unicorn.
+Helped 2 top Y-Combinator startups and one of the fastest crypto unicorn [Magic Eden](https://magiceden.io?utm_source=github-dmshvetsov&ref=github-dmshvetsov).
 
-Author of [Team Lead 101: How to Manage and Grow Engineering Teams in Small Startups](http://gum.co/team-lead-101) book.
+Author of [Team Lead 101: How to Manage and Grow Engineering Teams in Small Startups](https://gum.co/team-lead-101) book.
 
 Open-source contributer.
 

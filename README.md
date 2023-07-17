@@ -11,7 +11,6 @@ on Twitter [twitter.com/dmshvetsov](https://twitter.com/dmshvetsov)
 ### read
 
 - ["Not your keys, not your crypto" is actually not the full truth in Ethereum ecosystem](https://dmitryshvetsov.com/shorts/erc-20-allowance-problem/)
-- [How to Deploy Ethereum Contract to Goerli network Using Hardhat, Alchemy and TypeScript](https://dmitryshvetsov.com/articles/how-to-deploy-goerli-ethereum-smart-contract-using-hardhat-alchemy-typescript/)
 - [How To Be More Productive Than Most Programmers](https://dmitryshvetsov.com/articles/how-to-be-more-productive-than-most-programmers/)
 - [22 Things You Should Give Up if You Want to Be a Successful Developer](https://dmitryshvetsov.com/articles/22-things-you-should-give-up-if-you-want-to-be-a-successful-developer/)
 

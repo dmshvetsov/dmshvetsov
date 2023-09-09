@@ -1,8 +1,9 @@
 Software Engineer. Alumnus of top Y Combinator startups and Magic Eden. I build web3.
 
-- One of the first engineer [Magic Eden](https://magiceden.io?utm_source=github-dmshvetsov&ref=github-dmshvetsov), one of the fastest crypto unicorns
-- Author of [Team Lead 101: How to Manage and Grow Engineering Teams in Small Startups](https://dmitryshvetsov.com/team-lead-101-book/) book
 - Open-source contributor
+- Author of [Team Lead 101: How to Manage and Grow Engineering Teams in Small Startups](https://dmitryshvetsov.com/team-lead-101-book/) book
+- A proud member of Overmind.xyz community, [come learn smart-contract development with us](https://overmind.xyz/?utm_source=magic-dima) and earn crypto while doing it, one of the warmest and most thriving developer communities in the Web3 and blockchain space.
+- One of the first engineer [Magic Eden](https://magiceden.io?utm_source=github-dmshvetsov&ref=github-dmshvetsov), one of the fastest crypto unicorns
 
 ### reach out
 
